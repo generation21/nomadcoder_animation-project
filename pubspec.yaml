@@ -11,15 +11,17 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
+  flutter_animate: ^4.5.2
   cupertino_icons: ^1.0.8
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_animate: ^4.5.2
 
   flutter_lints: ^5.0.0
 
 flutter:
   uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/data/resources.json
