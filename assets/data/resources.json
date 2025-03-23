@@ -1,0 +1,79 @@
+{
+    "resources": [
+        {
+            "id": 1,
+            "title": "Helldivers 2",
+            "description": "Arrowhead Game Studios에서 제작한 PS5 및 PC용 멀티플레이 협동 슈팅 게임에서 친구를 포함해 최대 4인이 협력하여 고향 행성인 슈퍼지구를 위협하는 외계 위협에 파멸을 선사하세요.",
+            "officialRating": 5,
+            "image": "assets/images/helldivers-2-keyart-nologo-01-en-10oct23.webp",
+            "trailerUrl": "assets/images/helldivers-2-keyart-nologo-01-en-10oct23.webp",
+            "subtitle": "STANDING IN THE SHADOWS",
+            "platform": [
+                "PS5",
+                "Steam",
+                "XBox",
+                "Nvidia"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Horizon Zero Dawn Remastered",
+            "description": "먼 미래를 배경으로 한 호라이즌의 포스트 아포칼립스 세상 속에서 머나먼 땅을 탐험하고, 더 거대해진 웅장한 기계들과 싸우며, 또 새로운 부족과 조우하세요.",
+            "officialRating": 5,
+            "image": "assets/images/horizon-zero-dawn-remastered-keyart-nologo-01-en-21oct24.webp",
+            "trailerUrl": "assets/images/horizon-zero-dawn-remastered-keyart-nologo-01-en-21oct24.webp",
+            "subtitle": "REMASTERED",
+            "platform": [
+                "PS5",
+                "Steam",
+                "XBox",
+                "Nvidia"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "마블 스파이더맨 2",
+            "description": "여러분의 스파이더맨, 피터 파커와 마일즈 모랄레스가 비평가들의 찬사를 받은 마블 스파이더맨 프랜차이즈의 PS5 최신작으로 스릴 넘치는 새로운 모험과 함께 돌아옵니다.",
+            "officialRating": 5,
+            "image": "assets/images/ps5-game-carousel-spider-man-3-15jan24.webp",
+            "trailerUrl": "assets/images/ps5-game-carousel-spider-man-3-15jan24.webp",
+            "subtitle": "SPIDER-MAN",
+            "platform": [
+                "PS5",
+                "Steam",
+                "XBox",
+                "Nvidia"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "스텔라 블레이드",
+            "description": "인류의 미래가 완전히 새로워진 스토리 중심의 액션 어드벤처의 균형에 달려 있습니다. 아름다움과 공포가 스펙타클한 효과로 절묘하게 어우러지고 디테일이 살아 있는 포스트 아포칼립스 세계에 빠져보세요.",
+            "officialRating": 5,
+            "image": "assets/images/stellar-blade-keyart-no-logo-01-en-7jun24.webp",
+            "trailerUrl": "assets/images/stellar-blade-keyart-no-logo-01-en-7jun24.webp",
+            "subtitle": "STELLAR BLADE",
+            "platform": [
+                "PS5",
+                "Steam",
+                "XBox",
+                "Nvidia"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Until Dawn",
+            "description": "PS5® 및 PC를 위해 재탄생한 Until Dawn™은, 여러분을 모든 결정이 삶과 죽음을 가르는 몰입감 넘치는 슬래셔 호러 속으로 초대합니다.",
+            "officialRating": 5,
+            "image": "assets/images/until-dawn-hero-mobile-01-en-22jan24.webp",
+            "trailerUrl": "assets/images/until-dawn-hero-mobile-01-en-22jan24.webp",
+            "subtitle": "UNTIL DAWN",
+            "platform": [
+                "PS5",
+                "Steam",
+                "XBox",
+                "Nvidia"
+            ]
+        }
+    ]
+}
